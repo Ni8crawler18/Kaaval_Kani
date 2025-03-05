@@ -104,7 +104,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
       <div className="hidden lg:block relative w-0 flex-1">
         <img
           className="absolute inset-0 h-full w-full object-cover"
-          src="https://images.unsplash.com/photo-1551223496-44de0c7233e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+          src="/login_image.jpg"
           alt="Police officers working"
         />
         <div className="absolute inset-0 bg-blue-900 bg-opacity-70 flex flex-col justify-end p-12">
